@@ -108,7 +108,7 @@ class ArcAd extends Component {
             data-slot={`/${dfpId}/${slotName}`}
             data-multi-size={multiSize}
             data-multi-size-validation="false"
-            json={JSON.stringify(targeting)}
+            json={`{"targeting": ${JSON.stringify(targeting)}}`}
           />
           {childrenPosition === "bottom" ? children : ""}
         </div>
