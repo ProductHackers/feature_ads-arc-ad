@@ -1,0 +1,26 @@
+{
+  "name": "@jorchgg/feature_ads-arc-ad",
+  "version": "0.2.9-beta.1",
+  "description": "Core component that can be used within a Fusion repo to quickly get an ad.",
+  "main": "build/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jorchg/feature_ads-arc-ad.git"
+  },
+  "author": "Matt Nelson, Jorge Garcia",
+  "license": "ISC",
+  "peerDependencies": {
+    "prop-types": ">=15",
+    "react": ">=16",
+    "react-dom": ">=16"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.4.3",
+    "arcads": "^1.4.2"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "xo": false,
+  "gitHead": "17ee05dd56f20ad0e41b0ae5c535e44e23f32848"
+}
