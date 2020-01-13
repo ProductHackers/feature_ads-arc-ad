@@ -1,5 +1,5 @@
 {
-  "name": "@jorchgg/feature_ads-arc-ad",
+  "name": "@product-hackers/feature_ads-arc-ad",
   "version": "0.2.9-beta.1",
   "description": "Core component that can be used within a Fusion repo to quickly get an ad.",
   "main": "build/index.js",
