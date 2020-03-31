@@ -1,11 +1,11 @@
 {
-  "name": "@product-hackers/feature_ads-arc-ad",
+  "name": "@larazon/feature_ads-arc-ad",
   "version": "0.3.0",
   "description": "Core component that can be used within a Fusion repo to quickly get an ad.",
   "main": "build/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ProductHackers/feature_ads-arc-ad.git"
+    "url": "git+https://github.com/ProductHackers/feature_ads-arc-ad.git"
   },
   "author": "Matt Nelson, Jorge Garcia",
   "license": "ISC",
@@ -22,5 +22,12 @@
     "access": "public"
   },
   "xo": false,
-  "gitHead": "17ee05dd56f20ad0e41b0ae5c535e44e23f32848"
+  "bugs": {
+    "url": "https://github.com/ProductHackers/feature_ads-arc-ad/issues"
+  },
+  "homepage": "https://github.com/ProductHackers/feature_ads-arc-ad#readme",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
