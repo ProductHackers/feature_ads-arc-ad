@@ -1,6 +1,6 @@
 {
   "name": "@larazon/feature_ads-arc-ad",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "description": "Core component that can be used within a Fusion repo to quickly get an ad.",
   "main": "build/index.js",
   "repository": {
@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.4.3",
-    "@product-hackers/arcads": "^1.6.1"
+    "@product-hackers/arcads": "^1.6.2"
   },
   "publishConfig": {
     "access": "public"
